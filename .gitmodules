@@ -1,0 +1,6 @@
+[submodule "airplane"]
+	path = airplane
+	url = https://github.com/filipppp/airplane
+[submodule "controller"]
+	path = controller
+	url = https://github.com/filipppp/controller
