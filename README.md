@@ -8,8 +8,6 @@ This repository contains the code for mimicking an airplane and its controller.
 
 **Controller**: Contains the code mimicking the base station (controller). It uses the HC-12 to receive and parse the telemetry from the airplane.
 
-All communication
-
 ## Hardware used
 
 - 1x Arduino ATMega2560
