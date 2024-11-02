@@ -5,6 +5,7 @@ This repository contains the code for mimicking an airplane and its controller.
 
 ## Submodules
 **Airplane**: Contains the code mimicking the airplane. It uses the HC-12 to send its telemetry to the base station (controller).
+
 **Controller**: Contains the code mimicking the base station (controller). It uses the HC-12 to receive and parse the telemetry from the airplane.
 
 All communication
