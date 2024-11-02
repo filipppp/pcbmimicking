@@ -11,7 +11,7 @@ This repository contains the code for mimicking an airplane and its controller.
 ## Hardware used
 
 - 1x Arduino ATMega2560
-- 1x HC12 Wireless Module transceiver
+- 2x HC12 Wireless Module transceiver
 - 1x MPU6050 Accelerometer
 - 1x 10K Ohm Resistor
 - 1x 4k Ohm Resistor
